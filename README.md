@@ -18,9 +18,14 @@ THEN the saved events persist
 
 
 ## Live Link
+https://edodgion.github.io/05-third-party-apis-work-day-scheduler/
 
 ## What it should look like
 ![](./Assets/05-third-party-apis-homework-demo.gif)
-
+## What it looks like
+![](./Assets/schedule1.jpg)
+![](./Assets/schedule2.jpg)
+![](./Assets/schedule3.jpg)
 
 ## Credit
+This page was made with ❤️ by Eric Dodgion 03/21/2021
